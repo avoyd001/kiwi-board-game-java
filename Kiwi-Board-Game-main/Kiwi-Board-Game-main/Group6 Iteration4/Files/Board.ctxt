@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=content
+comment1.target=Board.ComboMapping\ mapContent(java.lang.String)
+comment2.params=
+comment2.target=Board()
+comment3.params=
+comment3.target=getAllFreeSquares()
+comment4.params=row\ col\ p
+comment4.target=boolean\ placeStone(int,\ int,\ Player)
+comment5.params=row\ col\ p
+comment5.target=boolean\ forcePlaceStone(int,\ int,\ Player)
+comment6.params=p
+comment6.target=int\ scoreForPlayer(Player)
+numComments=7

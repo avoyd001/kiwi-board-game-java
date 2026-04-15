@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PlayerSettingsDialog
+comment1.params=parent
+comment1.target=PlayerSettingsDialog(java.awt.Frame)
+comment2.params=
+comment2.target=void\ createGameFromSettings()
+comment3.params=
+comment3.target=KiviGame\ getCreatedGame()
+numComments=4

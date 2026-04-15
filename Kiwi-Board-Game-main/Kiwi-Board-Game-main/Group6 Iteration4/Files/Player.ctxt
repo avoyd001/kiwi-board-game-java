@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name\ isComputer
+comment1.target=Player(java.lang.String,\ boolean)
+comment2.params=name\ isComputer\ difficulty
+comment2.target=Player(java.lang.String,\ boolean,\ java.lang.String)
+numComments=3

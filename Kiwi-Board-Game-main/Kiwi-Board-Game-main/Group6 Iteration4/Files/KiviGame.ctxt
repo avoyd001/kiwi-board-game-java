@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=KiviGame
+comment1.params=
+comment1.target=KiviGame()
+comment2.params=filename
+comment2.target=void\ saveGame(java.lang.String)
+comment3.params=filename
+comment3.target=KiviGame\ loadGame(java.lang.String)
+numComments=4
